@@ -3,7 +3,7 @@
 <div align="center">
   
 [![arXiv](https://img.shields.io/badge/arXiv%20paper-2412.15119-b31b1b.svg)](https://arxiv.org/abs/2412.15119)&nbsp;
-[![project page](https://img.shields.io/badge/Project_page-More_demo-green)](https://epiphqny.github.io/PAR-project)&nbsp;
+[![project page](https://img.shields.io/badge/Project_page-More_demo-green)](https://yuqingwang1029.github.io/PAR-project)&nbsp;
 
 </div>
 
